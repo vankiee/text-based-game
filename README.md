@@ -1,6 +1,6 @@
 # COMP2113-Text-based-game
 
-Members: Liew Van Kie (3035553472), Au Cheuk Ying (3035568324)
+Members: Liew Van Kie, Au Cheuk Ying 
 
 Game description & Basic game rules
 
