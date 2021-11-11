@@ -21,7 +21,7 @@ Type:
 2. make all
 3. ./game_loop
 
-## Features/functions to be implemented
+## Features/functions implemented
 
 1. srand() and rand(): To generate a random room number to be the starting room for the player, and generate random comments after player's responses.
 2. In game_loop.cpp, we used vectors to store random comments. We used vectors to store areas in each room. In rooms.h, we used struct to construct rooms. In areas.h, we used struct to construct areas.
