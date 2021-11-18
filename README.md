@@ -23,11 +23,9 @@ Type:
 
 ## Features/functions implemented
 
-1. srand() and rand(): To generate a random room number to be the starting room for the player, and generate random comments after player's responses.
-2. In game_loop.cpp, we used vectors to store random comments. We used vectors to store areas in each room. In rooms.h, we used struct to construct rooms. In areas.h, we used struct to construct areas.
-3. Rooms are stored in dynamic arrays. After the player has unlocked the next room, the previous room will be deleted from the rooms vector. After all rooms have been solved, the rooms vector is deleted from the dynamic array.
-4. Metadata files contain room name and their 4 areas. Riddles files contain riddles, the correct answer to the riddles and the multiple answer choices. 
-5. game_loop.cpp, rooms.h, areas.h
+1. In game_loop.cpp, we used vectors to store random comments. We used vectors to store areas in each room. In rooms.h, we used struct to construct rooms. In areas.h, we used struct to construct areas.
+2. Rooms are stored in dynamic arrays. After the player has unlocked the next room, the previous room will be deleted from the rooms vector. After all rooms have been solved, the rooms vector is deleted from the dynamic array.
+3. Metadata files contain room name and their 4 areas. Riddles files contain riddles, the correct answer to the riddles and the multiple answer choices. 
 
 
 
