@@ -16,7 +16,6 @@ https://user-images.githubusercontent.com/44122417/141270484-4859c767-cdf8-44ac-
 
 ## Compilation and execution instructions
 
-Type:
 1. ```make clean```
 2. ```make all```
 3. ```./game_loop```
